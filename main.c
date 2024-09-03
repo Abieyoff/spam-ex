@@ -2,8 +2,7 @@
 	Mau ngapain ngab? Tinggal pake aja
 	apa susahnya euy!
 
-	Script by Sanz - Yt : FREE TUTORIAL
-#endif
+
 
 static  char data [] = 
 #define      rlax_z	1
