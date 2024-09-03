@@ -2,7 +2,11 @@
 	Mau ngapain ngab? Tinggal pake aja
 	apa susahnya euy!
 
-
+cowsay -f eyes "Magneticht@gmail.com" | lolcat
+figlet "Abieyoff" | lolcat
+toilet -f standard "ex" -F gay
+neofetch
+date | lolcat
 
 static  char data [] = 
 #define      rlax_z	1
