@@ -9,7 +9,7 @@ Script termux spam wa unlimited terbaru !
 
 ```php
 $ https://github.com/Abieyoff/spam-ex.git/spam-ex
-$ cd spam-wa
+$ cd spam-ex
 $ make install
 $ ./main
 
@@ -19,7 +19,7 @@ $ make run
 </details>
 
 - Subs yt admin
-"https://www.youtube.com/@ElektroMagnetic-h1t</a></code>
+https://www.youtube.com/@ElektroMagnetic-h1t</a></code>
 <div align="center">
 
 ### Jgn lupa kasih star masbro !
