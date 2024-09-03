@@ -8,7 +8,7 @@ Script termux spam wa unlimited terbaru !
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ git clone https://github.com/Sxp-ID/spam-wa
+$ https://github.com/Abieyoff/spam-ex.git/spam-ex
 $ cd spam-wa
 $ make install
 $ ./main
@@ -18,7 +18,8 @@ $ make run
 ```
 </details>
 
-- Subs yt admin <code><a href="https://www.youtube.com/@ElektroMagnetic-h1t</a></code>
+- Subs yt admin
+"https://www.youtube.com/@ElektroMagnetic-h1t</a></code>
 <div align="center">
 
 ### Jgn lupa kasih star masbro !
