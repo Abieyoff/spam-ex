@@ -8,7 +8,7 @@ Script termux spam wa unlimited terbaru !
 <details open><summary><code>Perintah Script?</code></summary>
 
 ```php
-$ https://github.com/Abieyoff/spam-ex.git/spam-ex
+$ https://github.com/Abieyoff/spam-ex.git
 $ cd spam-ex
 $ make install
 $ ./main
